@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5989B&center=true&vCenter=true&width=480&lines=Desenvolvedora+Jr+na+Florence+%F0%9F%92%BB;Equipe+TIC+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 🍷 Sobre mim
